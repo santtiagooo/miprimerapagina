@@ -116,10 +116,13 @@ footer {
   width: 100%;
   
 }
-img {
-  padding: 50px;
-}
 
+
+.greeting {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 40px;
+}
 /*----------------------------- */
 
 @media (max-width: 768px) {
